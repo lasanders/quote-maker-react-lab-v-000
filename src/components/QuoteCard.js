@@ -7,13 +7,13 @@ const QuoteCard = (props) =>
         <blockquote className="card-blockquote">
           {/* <p>{Render Quote Content}</p> */}
           {/* <footer>- author <cite title="Source Title">{Render Quote Author}</cite></footer> */}
-          [
-  {
-    id: '23423424242-42342423424242-fafdb',
-    content: 'One Awesome Quote',
-    author: 'Luke Ghenco'
-  }
-]
+//           [
+//   {
+//     id: '23423424242-42342423424242-fafdb',
+//     content: 'One Awesome Quote',
+//     author: 'Luke Ghenco'
+//   }
+// ]
         </blockquote>
       </div>
       <div className="float-right">
